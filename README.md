@@ -1,5 +1,5 @@
 # Mozilla-LZ4-encrypter-decrypter
-Encrypt and decrypt mozl4, jsonlz4, lz4, baklz4 files from Mozilla Firefox 
+Encrypt/compress and decrypt/extract mozl4, jsonlz4 files from Mozilla Firefox 
 
 Needs `lz4`. Install via `pip install lz4`
 
